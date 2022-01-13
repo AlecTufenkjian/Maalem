@@ -1,5 +1,8 @@
-# Maalem
-Application web d'aide scolaire
+# Maalem - Cegep
+
+Student help web application created by Alec Tufenkjian, Alexis Provost and Ryan Guzelian during the winter 2021 semeseter.
+
+Application web d'aide étudiante realisée par Alec Tufenkjian, Alexis Provost et Ryan Guzelian durant la session d'hiver 2021.
 
 ![alt text](https://img.sshort.net/i/fcUq.jpg "Maalem")
 
